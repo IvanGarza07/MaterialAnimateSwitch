@@ -1,0 +1,2 @@
+# MaterialAnimateSwitch
+switch animated
